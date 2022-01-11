@@ -3,7 +3,6 @@
 
 ## Hi there 👋
 #### I'm Hamed Ostovar
-#### a Web Developer
 I'm a Front End developer. I have more than six years of experience in this field. I have worked with many technologies in my field, I love the challenges that come up every day and I know how to find the best way to build or improve web applications with the highest performance standards.
 
 
