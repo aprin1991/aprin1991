@@ -9,8 +9,10 @@ I'm a Front End developer. I have more than six years of experience in this fiel
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ostovar/) &emsp;
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
 
+<!-- logo=appveyor -->
 
-![](https://img.shields.io/badge/<react js>-<>-informational?style=flat&logo=<React>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<React Js&logo=appveyor>-</>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!-- ?style=social&logo=appveyor -->
 <!--   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
 <!--
