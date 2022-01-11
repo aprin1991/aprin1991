@@ -5,7 +5,7 @@
 #### **_I'm Hamed Ostovar_**
 I'm a Front End developer. I have more than six years of experience in this field. I have worked with many technologies in my field, I love the challenges that come up every day and I know how to find the best way to build or improve web applications with the highest performance standards.
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]](https://github.com/aprin1991/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
 
 <!-- ![<LinkedIn>](https://raw.githubusercontent.com/aprin1991/aprin1991/main/icon/gh-bannner-light.png) -->
 
