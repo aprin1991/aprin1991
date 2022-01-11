@@ -11,7 +11,7 @@ I'm a Front End developer. I have more than six years of experience in this fiel
 
 <!-- logo=appveyor -->
 
-![](https://img.shields.io/badge/<React Js>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<React Js>-informational?style=flat&logo=<react>&logoColor=white&color=2bbc8a)
 
 <!-- ?style=social&logo=appveyor -->
 <!--   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
