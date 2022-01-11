@@ -9,12 +9,8 @@ I'm a Front End developer. I have more than six years of experience in this fiel
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ostovar/) &emsp;
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
 
-<!-- logo=appveyor -->
-
 ![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-<!-- ?style=social&logo=appveyor -->
-<!--   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=javascript&logoColor=white&style=flat-square&color=f7df1e)
 <!--
 **aprin1991/aprin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
