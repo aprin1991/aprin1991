@@ -1,5 +1,4 @@
-
-<!-- [![Header](https://raw.githubusercontent.com/aprin1991/aprin1991/main/icon/gh-bannner-light.png "Header")](https://some-url.dev/) -->
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Hi there 👋
 #### **_I'm Hamed Ostovar_**
