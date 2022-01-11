@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Front End developer. I have more than six years of experience in this field. I have worked with many technologies in my field, I love the challenges that come up every day and I know how to find the best way to build or improve web applications with the highest performance standards.
 
 <!--
 **aprin1991/aprin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
