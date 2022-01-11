@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://raw.githubusercontent.com/jh3y/jh3y/master/assets/header-banner--optimized.svg)
 
 ## Hi there 👋
 #### **_I'm Hamed Ostovar_**
