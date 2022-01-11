@@ -1,8 +1,11 @@
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 I'm a Front End developer. I have more than six years of experience in this field. I have worked with many technologies in my field, I love the challenges that come up every day and I know how to find the best way to build or improve web applications with the highest performance standards.
 
 
-![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![<LinkedIn>](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)
 
 <!--   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
 <!--
