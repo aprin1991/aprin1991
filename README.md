@@ -10,7 +10,7 @@ I'm a Front End developer. I have more than six years of experience in this fiel
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
 
 
-![](https://img.shields.io/badge/<?style=social&logo=appveyor>-<>-informational?style=flat&logo=<React>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<react js>-<>-informational?style=flat&logo=<React>&logoColor=white&color=2bbc8a)
 <!-- ?style=social&logo=appveyor -->
 <!--   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
 <!--
