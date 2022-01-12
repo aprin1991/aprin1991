@@ -12,7 +12,7 @@ I'm a Front End developer. I have more than six years of experience in this fiel
 <br/><br/>
 # Technologies & Tools 
 ![](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=black&style=flat-square&color=f7df1e)
-![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square&color=61DBFB)
 ![](https://img.shields.io/badge/-TypeScript-61DAFB?logo=typescript&logoColor=white&style=flat-square&color=007acc)
 <!--
 **aprin1991/aprin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
