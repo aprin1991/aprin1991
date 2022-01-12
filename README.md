@@ -10,7 +10,7 @@ I'm a Front End developer. I have more than six years of experience. I have work
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
 
 <br/><br/>
-# Technologies & Tools 
+# 🔧 Technologies & Tools 
 
 ![](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=black&style=flat-square&color=f7df1e)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=007acc&style=flat-square&color=61DBFB)
