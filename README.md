@@ -8,6 +8,7 @@ I'm a Front End developer. I have more than six years of experience. I have work
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ostovar/) &emsp;
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aprin1991/)
+[![ostovari.eng@gmail.com](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:ostovari.eng@gmail.com)
 
 <br/><br/>
 # Technologies & Tools 
