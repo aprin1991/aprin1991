@@ -1,6 +1,6 @@
 ![This is an image](https://raw.githubusercontent.com/aprin1991/aprin1991/79fd2ea520682144fc0b02ced50f76c52047902f/img/header-banner--optimized.svg)
 
-# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+ # Hi There <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
 #### **_I'm Hamed Ostovar_**
 I'm a Front End developer. I have more than six years of experience. I have worked with many technologies in my field, I love the challenges that come up every day and I will find the best solution to build or improve web applications with the highest performance.
