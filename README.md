@@ -1,4 +1,4 @@
-![This is an image](https://raw.githubusercontent.com/aprin1991/aprin1991/79fd2ea520682144fc0b02ced50f76c52047902f/img/header-banner--optimized.svg)
+<!-- ![This is an image](https://raw.githubusercontent.com/aprin1991/aprin1991/79fd2ea520682144fc0b02ced50f76c52047902f/img/header-banner--optimized.svg) -->
 
  # Hi There <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
