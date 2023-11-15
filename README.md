@@ -4,9 +4,7 @@
 
 #### **_I'm Hamed Ostovar_**
 As a Senior Front End Developer, my +7 years of experience have allowed me to develop a wellrounded skillset in various technologies, including JavaScript, React JS, Next JS, TypeScript, PWA
-
 and UI frameworks like Tailwind.css and Styled Component. I have a strong ability to create efficient, user-friendly web applications, with a passion for delivering high-quality code.
-
 Additionally, my experience has taught me the importance of effective communication, collaboration, and meeting deadlines in a fast-paced environment.
 
 
@@ -20,8 +18,9 @@ Additionally, my experience has taught me the importance of effective communicat
 
 ![](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=black&style=flat-square&color=f7df1e)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=007acc&style=flat-square&color=61DBFB)
-![](https://img.shields.io/badge/-TypeScript-61DAFB?logo=typescript&logoColor=white&style=flat-square&color=007acc)
 ![](https://img.shields.io/badge/-NextJS-61DAFB?logo=react&logoColor=007acc&style=flat-square&color=61DBFB)
+![](https://img.shields.io/badge/-TypeScript-61DAFB?logo=typescript&logoColor=white&style=flat-square&color=007acc)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/-Redux-61DAFB?logo=react&logoColor=007acc&style=flat-square&color=61DBFB)
 
 <!--
