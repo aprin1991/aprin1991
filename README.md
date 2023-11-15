@@ -4,7 +4,9 @@
 
 #### **_I'm Hamed Ostovar_**
 As a Senior Front End Developer, my +7 years of experience have allowed me to develop a wellrounded skillset in various technologies, including JavaScript, React JS, Next JS, TypeScript, PWA
+
 and UI frameworks like Tailwind.css and Styled Component. I have a strong ability to create efficient, user-friendly web applications, with a passion for delivering high-quality code.
+
 Additionally, my experience has taught me the importance of effective communication, collaboration, and meeting deadlines in a fast-paced environment.
 
 
