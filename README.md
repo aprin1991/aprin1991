@@ -18,10 +18,10 @@ As a Senior Front End Developer with over 7 years of experience, I specialize in
 <!-- Technology Badges -->
 ![](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=black&style=flat-square&color=f7df1e)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat-square&color=61DBFB)
 ![](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-61DAFB?logo=typescript&logoColor=white&style=flat-square&color=007acc)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat-square&color=61DBFB)
 ![](https://img.shields.io/badge/-Redux-61DAFB?logo=react&logoColor=007acc&style=flat-square&color=61DBFB)
 
 <!-- Optional GitHub Statistics -->
