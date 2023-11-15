@@ -3,7 +3,9 @@
  # Hi There <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
 #### **_I'm Hamed Ostovar_**
-I'm a Front End developer. I have more than six years of experience. I have worked with many technologies in my field, I love the challenges that come up every day and I will find the best solution to build or improve web applications with the highest performance.
+As a Senior Front End Developer, my +7 years of experience have allowed me to develop a wellrounded skillset in various technologies, including JavaScript, React JS, Next JS, TypeScript, PWA
+and UI frameworks like Tailwind.css and Styled Component. I have a strong ability to create efficient, user-friendly web applications, with a passion for delivering high-quality code.
+Additionally, my experience has taught me the importance of effective communication, collaboration, and meeting deadlines in a fast-paced environment.
 
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ostovar/) &emsp;
